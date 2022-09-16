@@ -1,0 +1,9 @@
+#background{
+    width: 110vw;
+    opacity: 0.9;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    filter: brightness(0.6);
+    }
